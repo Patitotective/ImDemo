@@ -1,7 +1,8 @@
 # <img title="Icon" width=50 height=50 src="https://github.com/Patitotective/ImDemo/blob/main/assets/icon.png"></img> ImDemo
 Demo Dear ImGui application implementing the [7GUIs tasks](https://eugenkiss.github.io/7guis/tasks) and [Dear ImGui demo](https://github.com/ocornut/imgui#demo)'s basic widgets, showing the basic Dear ImGui usage and a start for creating your own applications.
 
-![Main Window](https://user-images.githubusercontent.com/79225325/169912779-7027011e-1157-4ddd-9ef8-56ceeb82037d.png)
+![Main Window](https://user-images.githubusercontent.com/79225325/170889400-75694bf8-441b-4c46-b248-e42ccef90d35.png)
+
 
 ## Installation
 Go to the [releases page](https://github.com/Patitotective/ImPasswordGen/releases/latest) and download:
