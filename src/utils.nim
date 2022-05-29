@@ -362,3 +362,6 @@ proc pushString*(str: var string, val: string) =
     str[0..val.len] = val & '\0'
   else:
     str[0..str.high] = val[0..str.high]
+
+proc updatePrefs*(app: var App) = 
+  echo "Updating preferences.."
