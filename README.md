@@ -1,5 +1,5 @@
-# <img title="Icon" width=50 height=50 src="https://github.com/Patitotective/ImTemplate/blob/main/assets/icon.png"></img> ImTemplate
-Template for making a single-windowed (or not) Dear ImGui application in Nim.
+# <img title="Icon" width=50 height=50 src="https://github.com/Patitotective/ImDemo/blob/main/assets/icon.png"></img> ImDemo
+Demo Dear ImGui application implementing the [7GUIs tasks](https://eugenkiss.github.io/7guis/tasks) and [Dear ImGui demo](https://github.com/ocornut/imgui#demo)'s basic widgets, showing the basic Dear ImGui usage and a start for creating your own applications.
 
 ![Main Window](https://user-images.githubusercontent.com/79225325/169912779-7027011e-1157-4ddd-9ef8-56ceeb82037d.png)
 
@@ -17,7 +17,7 @@ nimble install https://github.com/Patitotective/ImPasswordGen
 https://user-images.githubusercontent.com/79225325/170889065-58a72a35-c21e-4783-8a8f-540d7947365a.mp4
 
 ## About
-- This app was generated from [ImTemplate](https://github.com/Patitotective/ImTemplate).
+- This app was generated from [ImDemo](https://github.com/Patitotective/ImDemo).
 - GitHub: https://github.com/Patitotective/ImPasswordGen.
 - Discord: https://discord.gg/as85Q4GnR6.
 
