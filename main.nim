@@ -150,9 +150,9 @@ proc drawFlightBooker(app: var App) =
     igPushTextWrapPos(250)
 
     if app.currentFlight == 1: # return flight
-      igTextWrapped(cstring &"You have booked a return flight departing on {app.startDate} and returning on {app.returnDate}.")
+      igTextWrapped("You have booked a return flight departing on %s and returning on %s.", cstring app.startDate, cstring app.returnDate)
     elif app.currentFlight == 0: # one-way flight
-      igTextWrapped(cstring &"You have booked a one-way flight on {app.startDate}.")
+      igTextWrapped("You have booked a one-way flight on %s.", cstring app.startDate)
 
     igPopTextWrapPos()
     igEndPopup()
