@@ -4,7 +4,7 @@ version          = "0.1.2"
 author           = "Patitotective"
 description      = "A new awesome Dear ImGui application"
 license          = "MIT"
-namedBin["main"] = "ImExample"
+namedBin["main"] = "ImDemo"
 
 # Dependencies
 
