@@ -92,6 +92,8 @@ proc updateCell(self: var Spreadsheet, cell: Cell) =
     self.updateCell(child)
 
 proc draw*(self: var Spreadsheet) = 
+  igPushStyleVar(CellPadding, igVec2(0, 0))
+
   # One more column because of the row numbers column
   if igBeginTable(self.label, int32 self.colMax+1, self.flags):
     igTableSetupScrollFreeze(1, 1)
@@ -179,3 +181,5 @@ proc draw*(self: var Spreadsheet) =
     igPopStyleColor()
     igPopStyleVar()
     igEndTable()
+
+  igPopStyleVar()

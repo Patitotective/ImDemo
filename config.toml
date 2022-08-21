@@ -1,0 +1,20 @@
+# App
+name = "ImDemo"
+comment = "ImDemo is a simple Dear ImGui application example"
+version = "0.2.0"
+website = "https://github.com/Patitotective/ImDemo"
+authors = ["Patitotective <https://github.com/Patitotective>"]
+categories = ["Utility"]
+
+# AppImage
+ghRepo = "Patitotective/ImDemo"
+
+stylePath = "assets/style.toml"
+iconPath = "assets/icon.png"
+svgIconPath = "assets/icon.svg"
+iconFontPath = "assets/forkawesome-webfont.ttf"
+fontPath = "assets/ProggyVector Regular.ttf" # Other options are Roboto-Regular.ttf, Cousine-Regular.ttf or Karla-Regular.ttf
+fontSize = 16.0
+
+# Window
+minSize = [200, 200] # Width, height
