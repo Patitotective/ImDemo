@@ -3,23 +3,22 @@ Demo Dear ImGui application implementing the [7GUIs tasks](https://eugenkiss.git
 
 ![Main Window](https://user-images.githubusercontent.com/79225325/170889400-75694bf8-441b-4c46-b248-e42ccef90d35.png)
 
-
 ## Installation
-Go to the [releases page](https://github.com/Patitotective/ImPasswordGen/releases/latest) and download:
-- [ImPasswordGen-x86_64.AppImage](https://github.com/Patitotective/ImPasswordGen/releases/latest/download/ImPasswordGen-x86_64.AppImage) for Linux.
-- [ImPasswordGen.exe](https://github.com/Patitotective/ImPasswordGen/releases/latest/download/ImPasswordGen.exe) for Windows.
+Go to the [releases page](https://github.com/Patitotective/ImDemo/releases/latest) and download:
+- [ImDemo-0.2.0-amd64.AppImage](https://github.com/Patitotective/ImDemo/releases/latest/download/ImDemo-0.2.0-amd64.AppImage) for Linux.
+- [ImDemo-0.2.0-amd64.exe](https://github.com/Patitotective/ImDemo/releases/latest/download/ImDemo-0.2.0-amd64.exe) for Windows.
 
 ### Nimble
 You can also install it through nimble, as a binary package.
 ```sh
-nimble install https://github.com/Patitotective/ImPasswordGen
+nimble install https://github.com/Patitotective/ImDemo
 ```
 
 https://user-images.githubusercontent.com/79225325/170889065-58a72a35-c21e-4783-8a8f-540d7947365a.mp4
 
 ## About
-- This app was generated from [ImDemo](https://github.com/Patitotective/ImDemo).
-- GitHub: https://github.com/Patitotective/ImPasswordGen.
+- This app was generated from [ImTemplate](https://github.com/Patitotective/ImTemplate).
+- GitHub: https://github.com/Patitotective/ImDemo.
 - Discord: https://discord.gg/as85Q4GnR6.
 
 Contact me:
