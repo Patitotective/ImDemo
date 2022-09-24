@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/79225325/170889065-58a72a35-c21e-4783-
 ## About
 - This app was generated from [ImTemplate](https://github.com/Patitotective/ImTemplate).
 - GitHub: https://github.com/Patitotective/ImDemo.
-- Discord: https://discord.gg/as85Q4GnR6.
+- Discord: https://discord.gg/gdcPVjazCG.
 
 Contact me:
 - Discord: **Patitotective#0127**.
